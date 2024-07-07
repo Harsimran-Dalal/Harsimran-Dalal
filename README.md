@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harsimran Singh Dalal</h1>
 <h3 align="center">Sincere and dedicated Electronics and Computer (ENC) Engineering student at Thapar University with a good academic background.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal /> </p>
-
----
-
-
-
-
-
-
-
 -  🌱 I’m currently learning **ML & DL**
 
 -  📫 How to reach me **harsimransinghdalal@gmail.com**
 
 -  📄 Know about my experiences [https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV)
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal /> </p>
+                   
 ---
 
 <h3 align="left">Connect with me:</h3>
