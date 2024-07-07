@@ -27,8 +27,8 @@
 
 <!-- /<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br> -->
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsimran-dalal&show_icons=true&locale=en&layout=compact&theme=dark" alt="harsimran-dalal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsimran-dalal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="harsimran-dalal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsimran-dalal&show_icons=true&locale=en&theme=dark" alt="harsimran-dalal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsimran-dalal&show_icons=true&locale=en&theme=tokyonight" alt="harsimran-dalal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-dalal&theme=dark" alt="harsimran-dalal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-dalal&theme=tokyonight" alt="harsimran-dalal" /></p>
