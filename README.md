@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsimran Singh Dalal</h1>
-<h3 align="center">Sincere and dedicated Electronics and Computer (ENC) Engineering student at Thapar University with a good academic background.</h3>
+<h3 align="center">Electronics and Computer (ENC) Engineering student at Thapar University with a good academic background.</h3>
 
 <!--/ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsimran-dalal" alt="harsimran-dalal" /></a> </p> -->
 
