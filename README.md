@@ -7,7 +7,7 @@
 
 -  📫 How to reach me **harsimransinghdalal@gmail.com**
 
-<!---  📄 Know about my experiences [https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV)-->
+-  📄 Know about my experiences [Current CV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV)
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal" /> 
@@ -32,3 +32,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsimran-dalal&show_icons=true&locale=en&theme=tokyonight" alt="harsimran-dalal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-dalal&theme=tokyonight" alt="harsimran-dalal" /></p>
+
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsimran-Dalal&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<!--<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Harsimran-Dalal}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p> -->
