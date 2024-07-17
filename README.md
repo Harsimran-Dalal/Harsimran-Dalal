@@ -27,7 +27,7 @@
 
 <!-- /<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br> -->
 
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact--># if you want to show percentage of used language also
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact          if you want to show percentage of used language also--> 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimran-Dalal&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="harsimran-dalal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsimran-dalal&show_icons=true&locale=en&theme=tokyonight" alt="harsimran-dalal" /></p>
