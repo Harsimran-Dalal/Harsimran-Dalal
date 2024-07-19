@@ -7,7 +7,7 @@
 
 -  📫 How to reach me **harsimransinghdalal@gmail.com**
 
--  📄 Know about my experiences [Current CV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV)
+<!---  📄 Know about my experiences [Current CV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV)-->
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal" /> 
