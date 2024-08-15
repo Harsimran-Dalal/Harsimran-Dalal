@@ -34,6 +34,9 @@
   </a>
 <a href="https://colab.google" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colaboratory" width="60" height="40"> 
+</a>
+<a href="https://www.tinkercad.com/" target="_blank"> 
+  <img src="https://www.tinkercad.com/img/favicon.ico" alt="Tinkercad" width="40" height="40"> 
 </a></a></p>
  
 <!-- /<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br> -->
