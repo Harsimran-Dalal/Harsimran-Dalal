@@ -20,13 +20,15 @@
 <a href="https://instagram.com/honeydalal_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeydalal_20" height="30" width="40" /></a>
 </p>
 
-## Certification Badges 🪶
+<details>	
+<summary><b>🛠 Certification Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://api.badgr.io/public/assertions/yNnKdDyBQIaTTxm2BVWEgw?identity__email=harsimransinghdalal%40gmail.com">
 <img src="https://github.com/user-attachments/assets/172f6f38-33e3-4034-a9e6-f8bdf74bcc4a" width="100px" height="100px" />
 <a href="#">
+</div>
+</details> 
 
----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://github.com/Harsimran-Dalal" target="_blank">  
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"> 
