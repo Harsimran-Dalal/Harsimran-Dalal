@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/harsimran-singh-dalal-614a39286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsimran singh dalal" height="30" width="40" /></a>
 <a href="https://kaggle.com/harsimransinghdalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harsimransinghdalal" height="30" width="40" /></a>
 <a href="https://instagram.com/honeydalal_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeydalal_20" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/HarsimranDalal/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="HarsimranDalal" height="30" width="40" /></a>
 </p>
 
 <details>	
