@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsimran Singh Dalal</h1>
-<h3 align="center">Electronics and Computer (ENC) Engineering student at Thapar University.</h3>
+<!--<h3 align="center">Electronics and Computer (ENC) Engineering student at Thapar University.</h3> -->
 <br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Harsimran+Singh+Dalal;I+am+Electronics+And+Computer+Undergraduate;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
