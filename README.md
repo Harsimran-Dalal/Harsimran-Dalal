@@ -1,16 +1,39 @@
 <h1 align="center">Hi 👋, I'm Harsimran Singh Dalal</h1>
-<h3 align="center">Electronics and Computer (ENC) Engineering student at Thapar University with a good academic background.</h3>
+<h3 align="center">Electronics and Computer (ENC) Engineering student at Thapar University.</h3>
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Harsimran+Singh+Dalal;I+am+Electronics+And+Computer+Undergraduate;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal" height=25px/>  <br></p>
+
+```
+                                    _____________________________________
+                                    < Welcome To My Personal GitHub Page! >
+                                    ------------------------------------- 
+                                              /\_/\
+                                             ( o.o ) Meow! Meow! 🐱
+                                              > ^ <
+   
+```
+ 
+<br />
+
+<!-- 
+<img src="https://myreadme.vercel.app/api/embed/Harsimran-Dalal?panels=userwelcome,userstatistics,toplanguages,commitgraph,toprepositories" alt="reimaginedreadme" width=100%/>
+-->
 
 <!--/ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsimran-dalal" alt="harsimran-dalal" /></a> </p> -->
 
 -  🌱 I’m currently learning **ML & DL**
 
 -  📫 How to reach me **harsimransinghdalal@gmail.com**
-  
+
+<!--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal" /> 
 </p>
-                   
+-->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,7 +45,7 @@
 </p>
 
 <details>	
-<summary><b>🛠 Certification Badges 🪶</b></summary><br>
+<summary><b>🛠 Certification Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://api.badgr.io/public/assertions/yNnKdDyBQIaTTxm2BVWEgw?identity__email=harsimransinghdalal%40gmail.com">
 <img src="https://github.com/user-attachments/assets/172f6f38-33e3-4034-a9e6-f8bdf74bcc4a" width="100px" height="100px" />
@@ -31,7 +54,7 @@
 </details> 
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <summary><b>GSSOC(24) Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -61,12 +84,12 @@
 </a></a></p>
 
  
-<!-- /<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br> -->
+<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br>
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact          if you want to show percentage of used language also--> 
 
 
-<!---
+
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsimran-Dalal&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
