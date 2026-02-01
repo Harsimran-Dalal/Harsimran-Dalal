@@ -83,7 +83,7 @@
 </a></a></p>
 
  
-<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/harsimransa" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/harsimransa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/harsimransa" /></a></p><br><br>
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact          if you want to show percentage of used language also--> 
 
